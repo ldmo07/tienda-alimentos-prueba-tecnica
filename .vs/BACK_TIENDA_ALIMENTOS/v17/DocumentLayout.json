@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8776230-3C96-4B56-8535-CA9CB02225AB}|WEBAPI\\WEBAPI.csproj|c:\\proyectos\\propios\\tiendaalimentos\\back\\back_tienda_alimentos\\webapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F8776230-3C96-4B56-8535-CA9CB02225AB}|WEBAPI\\WEBAPI.csproj|solutionrelative:webapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8776230-3C96-4B56-8535-CA9CB02225AB}|WEBAPI\\WEBAPI.csproj|c:\\proyectos\\propios\\tiendaalimentos\\back\\back_tienda_alimentos\\webapi\\leeme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F8776230-3C96-4B56-8535-CA9CB02225AB}|WEBAPI\\WEBAPI.csproj|solutionrelative:webapi\\leeme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\README.md",
+              "RelativeDocumentMoniker": "WEBAPI\\README.md",
+              "ToolTip": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\README.md",
+              "RelativeToolTip": "WEBAPI\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-18T16:18:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LEEME.txt",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\LEEME.txt",
               "RelativeDocumentMoniker": "WEBAPI\\LEEME.txt",
               "ToolTip": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\LEEME.txt",
               "RelativeToolTip": "WEBAPI\\LEEME.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-04-18T15:37:40.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WEBAPI\\appsettings.Development.json",
@@ -75,25 +92,24 @@
               "RelativeToolTip": "WEBAPI\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T15:22:55.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T15:22:55.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WEBAPI\\appsettings.json",
               "ToolTip": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\appsettings.json",
               "RelativeToolTip": "WEBAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-18T15:22:29.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataCategoria.cs",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\Datos\\Implementacion\\DataCategoria.cs",
               "RelativeDocumentMoniker": "Datos\\Implementacion\\DataCategoria.cs",
@@ -101,12 +117,11 @@
               "RelativeToolTip": "Datos\\Implementacion\\DataCategoria.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAMwDQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:19:05.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:19:05.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "WEBAPI\\Controllers\\UsuarioController.cs",
@@ -114,12 +129,11 @@
               "RelativeToolTip": "WEBAPI\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:32:51.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:32:51.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SeguridadController.cs",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\Controllers\\SeguridadController.cs",
               "RelativeDocumentMoniker": "WEBAPI\\Controllers\\SeguridadController.cs",
@@ -127,12 +141,11 @@
               "RelativeToolTip": "WEBAPI\\Controllers\\SeguridadController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:32:47.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:32:47.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "WEBAPI\\Controllers\\ProductoController.cs",
@@ -140,12 +153,11 @@
               "RelativeToolTip": "WEBAPI\\Controllers\\ProductoController.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAAAowA8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:32:12.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:32:12.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "WEBAPI\\Controllers\\PedidoController.cs",
@@ -153,12 +165,11 @@
               "RelativeToolTip": "WEBAPI\\Controllers\\PedidoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:21:44.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:21:44.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Proyectos\\Propios\\TiendaAlimentos\\Back\\BACK_TIENDA_ALIMENTOS\\WEBAPI\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "WEBAPI\\Controllers\\CategoriaController.cs",
@@ -166,8 +177,7 @@
               "RelativeToolTip": "WEBAPI\\Controllers\\CategoriaController.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAkwA8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:18:02.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:18:02.633Z"
             }
           ]
         }

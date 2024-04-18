@@ -25,6 +25,10 @@ Backend realizado en .net 7 para una tienda online de alimentos
 
 # 7. PARA OBTENER EL TOKEN POR FAVOR EJECUTAR EL ENDPOINT DE INICIO DE SESION
 
+************************************************************************************************************************************
+# 8. SI DESEA QUE EL USUARIO SEA ADMINISTRADOR AL MOMENTO DE HACER LA INSERCION EL ROL DEBE LLEVAR EL VALOR DE admin  OJO IMPORTANTE
+************************************************************************************************************************************
+
 # NOTA =>PARA PROBAR EL API SE DEBE CAMBIAR  EN LA COLECCION DE POSTMAN LUEGO DE IMPORTARLA EL https://localhost:7263 POR https://backend-tienda-alimnetos-online.azurewebsites.net  
 # EJEMPLO PARA LISTAR CATEGORIAS => https://localhost:7263/api/Categoria/listarCategoria QUEDARIA ASI https://backend-tienda-alimnetos-online.azurewebsites.net/api/Categoria/insertarCategoria
 
