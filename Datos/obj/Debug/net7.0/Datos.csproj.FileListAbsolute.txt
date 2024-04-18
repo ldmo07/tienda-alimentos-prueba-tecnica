@@ -1,0 +1,15 @@
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\bin\Debug\net7.0\Datos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\bin\Debug\net7.0\Modelos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\bin\Debug\net7.0\Modelos.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.csproj.Up2Date
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\ref\Datos.dll

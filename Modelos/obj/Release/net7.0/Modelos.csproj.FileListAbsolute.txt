@@ -1,0 +1,11 @@
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\bin\Release\net7.0\Modelos.deps.json
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\bin\Release\net7.0\Modelos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\bin\Release\net7.0\Modelos.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\Modelos.AssemblyInfoInputs.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\Modelos.AssemblyInfo.cs
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\Modelos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\refint\Modelos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\Modelos.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Modelos\obj\Release\net7.0\ref\Modelos.dll

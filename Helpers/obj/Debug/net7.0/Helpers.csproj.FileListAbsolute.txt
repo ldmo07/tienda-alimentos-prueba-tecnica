@@ -1,0 +1,15 @@
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\bin\Debug\net7.0\Modelos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\bin\Debug\net7.0\Modelos.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Helpers\obj\Debug\net7.0\Helpers.csproj.Up2Date
