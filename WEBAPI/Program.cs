@@ -55,9 +55,6 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Inser
 
 //inyeccion de dependencias
 builder.Services.AddScoped(typeof(IData<ResponseModel, CategoriaDto>), typeof(DataCategoria));
-builder.Services.AddScoped(typeof(IDataList<CategoriaDto>), typeof(DataCategoria));
-builder.Services.AddScoped(typeof(IDataList<ProductoDto>), typeof(DataProducto));
-builder.Services.AddScoped(typeof(IDataList<UsuarioDto>), typeof(DataUsuario));
 builder.Services.AddScoped(typeof(IData<ResponseModel, ProductoDto>), typeof(DataProducto));
 //builder.Services.AddScoped(typeof(IData<ResponseModel, PedidoDto>), typeof(DataPedido));
 builder.Services.AddScoped(typeof(IData<ResponseModel, UsuarioDto>), typeof(DataUsuario));

@@ -1,6 +1,7 @@
 ﻿using Datos.Interfaces;
 using MediatR;
 using Modelos.Dtos;
+using Modelos.Response;
 
 namespace Negocios.Usuario
 {
@@ -10,8 +11,8 @@ namespace Negocios.Usuario
 
     public class ListarUsuarioHandler : IRequestHandler<ListarUsuario, List<UsuarioDto>>
     {
-        private readonly IDataList<UsuarioDto> _dataList;
-        public ListarUsuarioHandler(IDataList<UsuarioDto> dataList)
+        private readonly IData<ResponseModel,UsuarioDto> _dataList;
+        public ListarUsuarioHandler(IData<ResponseModel, UsuarioDto> dataList)
         {
             _dataList = dataList;
         }

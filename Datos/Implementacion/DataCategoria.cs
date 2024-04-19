@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace Datos.Implementacion
 {
-    public class DataCategoria : IData<ResponseModel, CategoriaDto>,IDataList<CategoriaDto>
+    public class DataCategoria : IData<ResponseModel, CategoriaDto>
     {
         #region VARIABLES 
         private readonly IConfiguration _configuration;

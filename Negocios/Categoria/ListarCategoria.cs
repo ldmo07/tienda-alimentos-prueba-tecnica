@@ -11,8 +11,8 @@ namespace Negocios.Categoria
 
     public class ListarCategoriaHandler : IRequestHandler<ListarCategoria, List<CategoriaDto>>
     {
-        private readonly IDataList<CategoriaDto> _data;
-        public ListarCategoriaHandler(IDataList<CategoriaDto> data)
+        private readonly IData<ResponseModel,CategoriaDto> _data;
+        public ListarCategoriaHandler(IData<ResponseModel, CategoriaDto> data)
         {
             _data = data;
         }

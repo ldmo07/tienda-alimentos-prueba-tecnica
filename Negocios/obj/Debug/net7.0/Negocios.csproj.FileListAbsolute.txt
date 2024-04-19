@@ -17,3 +17,4 @@ C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Negocios\obj\Deb
 C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Negocios\obj\Debug\net7.0\ref\Negocios.dll
 C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Negocios\bin\Debug\net7.0\Helpers.dll
 C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Negocios\bin\Debug\net7.0\Helpers.pdb
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Negocios\obj\Debug\net7.0\Negocios.sourcelink.json

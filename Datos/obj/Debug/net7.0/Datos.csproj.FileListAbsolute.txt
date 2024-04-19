@@ -13,3 +13,4 @@ C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\
 C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\refint\Datos.dll
 C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.pdb
 C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\ref\Datos.dll
+C:\Proyectos\Propios\TiendaAlimentos\Back\BACK_TIENDA_ALIMENTOS\Datos\obj\Debug\net7.0\Datos.sourcelink.json
